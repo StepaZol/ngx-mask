@@ -19,13 +19,13 @@
   "contributors": [
     "ngx-mask"
   ],
-  "homepage": "https://github.com/JsDaddy/ngx-mask",
+  "homepage": "https://github.com/StepaZol/ngx-mask-fork",
   "repository": {
     "type": "git",
-    "url": "git@github.com:JsDaddy/ngx-mask.git"
+    "url": "git@github.com:StepaZol/ngx-mask-fork.git"
   },
   "bugs": {
-    "url": "https://github.com/JsDaddy/ngx-mask/issues"
+    "url": "https://github.com/StepaZol/ngx-mask-fork/issues"
   },
   "main": "./bundles/ngx-mask.umd.js",
   "module": "./esm5/ngx-mask.js",
